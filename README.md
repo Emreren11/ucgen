@@ -1,2 +1,2 @@
 # ucgen
-Yıldızlarla üçgen yapan program (www.patika.dev)
+Yıldızlarla elmas yapan program (www.patika.dev)
